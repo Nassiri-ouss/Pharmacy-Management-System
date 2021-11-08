@@ -1398,7 +1398,7 @@ public class Pharmacy extends javax.swing.JFrame {
         updatedeals.setVisible(false);
         alldeals.setVisible(false);
         
-        salesbill.setVisible(false);
+       salesbill.setVisible(false);
         shiftsales.setVisible(false);
         retdrug.setVisible(false);
         
